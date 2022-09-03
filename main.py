@@ -32,3 +32,5 @@ for line in bitmap.splitlines():
         else:
             print(message[i % len(message)], end='')
     print()
+    
+    
